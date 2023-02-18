@@ -8,19 +8,56 @@ nav_order: 1
 
 ## Zutaten
 
-| Menge | Zutat |
-| --- | --- |
-|1|Zwiebel|
-|2|Große Möhren|
-|7|Champignons|
-|2|Knoblauchzehen|
-|500 ml|Passierte Tomaten|
-|600 g|Rahmspint|
-|100 g|Frischkäse|
-|5EL|Milch|
-|1EL|Gemüsebrühe|
-|200g|Käse|
-
+<html>
+    <body>
+        <table>
+        <tr>
+            <th>Menge</th>
+            <th>Zutat</th>
+        </tr>
+        <tr>
+            <td>1</td>
+            <td>Zwiebel</td>
+        </tr>
+        <tr>
+            <td>2</td>
+            <td>Große Möhren</td>
+        </tr>
+        <tr>
+            <td>7</td>
+            <td>Champignons</td>
+        </tr>
+        <tr>
+            <td>2</td>
+            <td>Knoblauchzehen</td>
+        </tr>
+        <tr>
+            <td>500 ml</td>
+            <td>Passierte Tomaten</td>
+        </tr>
+        <tr>
+            <td>600 g</td>
+            <td>Rahmspint</td>
+        </tr>
+        <tr>
+            <td>100 g</td>
+            <td>Frischkäse</td>
+        </tr>
+        <tr>
+            <td>5EL</td>
+            <td>Milch</td>
+        </tr>
+        <tr>
+            <td>1EL</td>
+            <td>Gemüsebrühe</td>
+        </tr>
+        <tr>
+            <td>200g</td>
+            <td>Käse</td>
+        </tr>
+        </table>
+    </body>
+</html>
 
 ## Zubereitung
 ### Pfanne
