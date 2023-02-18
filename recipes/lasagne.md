@@ -7,8 +7,9 @@ nav_order: 1
 # Vegetarische Lasagne
 
 ## Zutaten
-|Menge|Zutat|
-|---|---|
+
+| Menge | Zutat |
+| --- | --- |
 |1|Zwiebel|
 |2|Große Möhren|
 |7|Champignons|
