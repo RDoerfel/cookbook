@@ -1,7 +1,7 @@
 ---
 title: Vegetarische Lasagne
-parent: Home
-nav_order: 2
+parent: Rezepte
+nav_order: 1
 ---
 
 # Vegetarische Lasagne
