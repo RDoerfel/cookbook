@@ -25,3 +25,5 @@ search:
   # Supports true or false (default)
   button: true
 heading_anchors: true
+exclude:
+  - "templates"
