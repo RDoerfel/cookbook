@@ -100,4 +100,5 @@ nav_order: 1
 4. 5 Minuten abkühlen lassen und servieren.
 
 ### Tipp
-* In der mitte eine feine Schicht Feta hinzufügen, aber Achtung, Feta ist recht Salzig.
+
+| In der mitte eine feine Schicht Feta hinzufügen, aber Achtung, Feta ist recht Salzig. |
