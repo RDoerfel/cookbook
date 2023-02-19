@@ -1,10 +1,10 @@
 ---
-title: Recipe Name
+title: Hühnerfrikassee
 parent: Rezepte
 nav_order: 1
 ---
 
-# Rezept Name
+# Hühnerfrikassee
 
 ## Zutaten
 
