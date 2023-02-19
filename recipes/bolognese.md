@@ -74,4 +74,4 @@ nav_order: 1
 1. Nudeln Kochen (nach Schritt 7)
 
 ### Tip
-| * Wenn mehr Soße gewünscht wird, einfach noch eine Doße gehackte Tomaten hinzugeben. |
+| Wenn mehr Soße gewünscht wird, einfach noch eine Doße gehackte Tomaten hinzugeben. |
