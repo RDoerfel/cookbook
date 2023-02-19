@@ -55,6 +55,22 @@ nav_order: 1
             <td>200g</td>
             <td>Käse</td>
         </tr>
+        <tr>
+            <td>1</td>
+            <td>Lasagneplatten</td>
+        </tr>
+        <tr>
+            <td>3EL</td>
+            <td>Butter</td>
+        </tr>
+        <tr>
+            <td>2EL</td>
+            <td>Mehl</td>
+        </tr>
+        <tr>
+            <td>150ml</td>
+            <td>Süße Sahne</td>
+        </tr>
         </table>
     </body>
 </html>
@@ -70,6 +86,12 @@ nav_order: 1
 7. Gut würzen mit Salz, Pfeffer, Chilli und Muskatnuss.
 
 ### Topf
+1. Butter in einem Topf schmelzen.
+2. Mehl hinzugeben und mit einem Schneebesen verrühren.
+3. Mit der Sahne ablöschen und mit einem Schneebesen verrühren.
+4. Tomatensoße hinzufügen
+5. Knoblauchzuühe hineinpressen
+6. Mit Salz, Pfeffer und Muskatnuss würzen.
 
 ### Backofen
 1. Abwechselnd dünne Schichten von Lasagneblättern, Spinat und Tomatensoße in eine Auflaufform geben.
@@ -77,3 +99,5 @@ nav_order: 1
 3. Im vorgeheizten Backofen bei 180°C ca. 30 Minuten backen.
 4. 5 Minuten abkühlen lassen und servieren.
 
+### Tipp
+* In der mitte eine feine Schicht Feta hinzufügen, aber Achtung, Feta ist recht Salzig.
