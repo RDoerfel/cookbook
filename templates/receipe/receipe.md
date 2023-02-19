@@ -4,7 +4,7 @@ parent: Rezepte
 nav_order: 1
 ---
 
-# Vegetarische Lasagne
+# Rezept Name
 
 ## Zutaten
 
