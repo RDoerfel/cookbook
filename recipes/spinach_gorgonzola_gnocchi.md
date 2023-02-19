@@ -1,10 +1,10 @@
 ---
-title: Spinach Gorgonzola Gnocchi
+title: Spinat Gorgonzola Gnocchi
 parent: Rezepte
 nav_order: 1
 ---
 
-# Spinach Gorgonzola Gnocchi
+# Spinat Gorgonzola Gnocchi
 
 ## Zutaten
 
