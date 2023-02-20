@@ -20,6 +20,8 @@ nav_order: 1
 |1|Knoblauchzehe|
 |250g|Risotto Reis|
 
+## Gewürze
+- Salz, Pfeffer
 
 ## Zubereitung
 1. Getrocknete Pilze in Wasser einweichen

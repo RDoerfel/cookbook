@@ -56,7 +56,7 @@ nav_order: 1
 </html>
 
 ## Gewürze
-- Salz, Pfeffer, PaprikaOregano
+- Salz, Pfeffer, Paprika, Oregano
 
 ## Zubereitung
 ### Pfanne

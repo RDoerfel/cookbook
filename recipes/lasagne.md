@@ -75,6 +75,9 @@ nav_order: 1
     </body>
 </html>
 
+## Gewürze
+- Salz, Pfeffer, Chilli, Muskatnuss
+
 ## Zubereitung
 ### Pfanne
 1. Zwiebeln und Möhren schälen und in kleine Würfel schneiden.
