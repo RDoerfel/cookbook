@@ -24,7 +24,8 @@ nav_order: 1
 - Salz, Pfeffer
 
 ## Zubereitung
-1. Getrocknete Pilze in Wasser einweichen
+### Vorbereitung
+1. Getrocknete Pilze in Wasser einweichen.
 
 ### Topf
 1. Zwiebeln und Knoblauch schälen und klein schneiden.
@@ -35,4 +36,3 @@ nav_order: 1
 6. Getrocknete Pilze hinzugeben.
 7. Risotto Reis nach und nach mit Brühe aufgießen und immer wieder umrühren.
 8. Wenn der Reis gar ist, mit Parmesan und Petersilie abschmecken.
-
