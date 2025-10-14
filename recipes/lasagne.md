@@ -8,72 +8,22 @@ nav_order: 1
 
 ## Zutaten
 
-<html>
-    <body>
-        <table>
-        <tr>
-            <th>Menge</th>
-            <th>Zutat</th>
-        </tr>
-        <tr>
-            <td>1</td>
-            <td>Zwiebel</td>
-        </tr>
-        <tr>
-            <td>2</td>
-            <td>Große Möhren</td>
-        </tr>
-        <tr>
-            <td>7</td>
-            <td>Champignons</td>
-        </tr>
-        <tr>
-            <td>2</td>
-            <td>Knoblauchzehen</td>
-        </tr>
-        <tr>
-            <td>500 ml</td>
-            <td>Passierte Tomaten</td>
-        </tr>
-        <tr>
-            <td>600 g</td>
-            <td>Rahmspinat</td>
-        </tr>
-        <tr>
-            <td>100 g</td>
-            <td>Frischkäse</td>
-        </tr>
-        <tr>
-            <td>5EL</td>
-            <td>Milch</td>
-        </tr>
-        <tr>
-            <td>1EL</td>
-            <td>Gemüsebrühe</td>
-        </tr>
-        <tr>
-            <td>200g</td>
-            <td>Käse</td>
-        </tr>
-        <tr>
-            <td>1</td>
-            <td>Lasagneplatten</td>
-        </tr>
-        <tr>
-            <td>3EL</td>
-            <td>Butter</td>
-        </tr>
-        <tr>
-            <td>2EL</td>
-            <td>Mehl</td>
-        </tr>
-        <tr>
-            <td>150ml</td>
-            <td>Süße Sahne</td>
-        </tr>
-        </table>
-    </body>
-</html>
+| Menge | Zutat |
+| --- | --- |
+|1|Zwiebel|
+|2|Große Möhren|
+|7|Champignons|
+|2|Knoblauchzehen|
+|500 ml|Passierte Tomaten|
+|600 g|Rahmspinat|
+|100 g|Frischkäse|
+|5EL|Milch|
+|1EL|Gemüsebrühe|
+|200g|Käse|
+|1|Lasagneplatten|
+|3EL|Butter|
+|2EL|Mehl|
+|150ml|Süße Sahne|
 
 ## Gewürze
 - Salz, Pfeffer, Chilli, Muskatnuss

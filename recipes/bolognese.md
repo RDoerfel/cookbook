@@ -8,52 +8,17 @@ nav_order: 1
 
 ## Zutaten
 
-<html>
-    <body>
-        <table>
-        <tr>
-            <th>Menge</th>
-            <th>Zutat</th>
-        </tr>
-        <tr>
-            <td>1</td>
-            <td>Zwiebel</td>
-        </tr>
-        <tr>
-            <td>2</td>
-            <td>Knoblauch</td>
-        </tr>
-        <tr>
-            <td>1</td>
-            <td>Möhre</td>
-        </tr>
-        <tr>
-            <td>125g</td>
-            <td>Veganes Hack</td>
-        </tr>
-        <tr>
-            <td>100ml</td>
-            <td>Weißwein / Brühe</td>
-        </tr>
-        <tr>
-            <td>-</td>
-            <td>Tomatenmark</td>
-        </tr>
-        <tr>
-            <td>500ml</td>
-            <td>Passierte Tomaten</td>
-        </tr>
-        <tr>
-            <td>1TL</td>
-            <td>Honig</td>
-        </tr>
-        <tr>
-            <td>250g</td>
-            <td>Nudeln</td>
-        </tr>
-        </table>
-    </body>
-</html>
+| Menge | Zutat |
+| --- | --- |
+|1|Zwiebel|
+|2|Knoblauch|
+|1|Möhre|
+|125g|Veganes Hack|
+|100ml|Weißwein / Brühe|
+|-|Tomatenmark|
+|500ml|Passierte Tomaten|
+|1TL|Honig|
+|250g|Nudeln|
 
 ## Gewürze
 - Salz, Pfeffer, Paprika, Oregano
