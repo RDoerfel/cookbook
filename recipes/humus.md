@@ -14,10 +14,10 @@ nav_order: 1
 |1|Chilli|
 |3-4|Knoblauchzehen|
 |2-3|Zitronen|
-|3-4EL|Öl|
-|3TL|Kreuzkümmel|
-|1TL|Currypulver|
-|2EL|Tahin|
+|3-4 EL|Öl|
+|3 TL|Kreuzkümmel|
+|1 TL|Currypulver|
+|2 EL|Tahin|
 
 ## Gewürze
 - Salz, Pfeffer, Paprika
