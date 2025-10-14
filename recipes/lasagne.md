@@ -37,7 +37,7 @@ nav_order: 1
         </tr>
         <tr>
             <td>600 g</td>
-            <td>Rahmspint</td>
+            <td>Rahmspinat</td>
         </tr>
         <tr>
             <td>100 g</td>
@@ -93,7 +93,7 @@ nav_order: 1
 2. Mehl hinzugeben und mit einem Schneebesen verrühren.
 3. Mit der Sahne ablöschen und mit einem Schneebesen verrühren.
 4. Tomatensoße hinzufügen
-5. Knoblauchzuühe hineinpressen
+5. Knoblauchzehe hineinpressen
 6. Mit Salz, Pfeffer und Muskatnuss würzen.
 
 ### Backofen
@@ -104,4 +104,4 @@ nav_order: 1
 
 ### Tipp
 
-| In der mitte eine feine Schicht Feta hinzufügen, aber Achtung, Feta ist recht Salzig. |
+| In der Mitte eine feine Schicht Feta hinzufügen, aber Achtung, Feta ist recht salzig. |

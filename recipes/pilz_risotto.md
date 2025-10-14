@@ -27,7 +27,7 @@ nav_order: 1
 1. Getrocknete Pilze in Wasser einweichen
 
 ### Topf
-1. Zwiebeln und Konoblauch schälen und klein schneiden.
+1. Zwiebeln und Knoblauch schälen und klein schneiden.
 2. Zwiebeln und Knoblauch in Öl anbraten.
 3. Risotto Reis hinzugeben und kurz mitbraten bis er leicht gebräunt ist.
 4. Mit Wein ablöschen.

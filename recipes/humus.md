@@ -1,10 +1,10 @@
 ---
-title: Humus
+title: Hummus
 parent: Rezepte
 nav_order: 1
 ---
 
-# Humus
+# Hummus
 
 ## Zutaten
 

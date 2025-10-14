@@ -71,7 +71,7 @@ nav_order: 1
 9. Köcheln lassen bis Nudeln fertig sind
 
 ### Topf
-1. Nudeln Kochen (nach Schritt 7)
+1. Nudeln kochen (nach Schritt 7)
 
-### Tip
-| Wenn mehr Soße gewünscht wird, einfach noch eine Doße gehackte Tomaten hinzugeben. |
+### Tipp
+| Wenn mehr Soße gewünscht wird, einfach noch eine Dose gehackte Tomaten hinzugeben. |

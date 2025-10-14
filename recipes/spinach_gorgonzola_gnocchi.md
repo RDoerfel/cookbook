@@ -26,13 +26,13 @@ nav_order: 1
 ### Pfanne
 1. Zwiebeln und Knoblauch schälen und in kleine Würfel schneiden.
 2. Gnocchi scharf anbraten.
-3. Zwiel und Knoblauch hinzugeben und kurz mitbraten.
-4. Mit Wein und dann brühe ablöschen.
+3. Zwiebel und Knoblauch hinzugeben und kurz mitbraten.
+4. Mit Wein und dann Brühe ablöschen.
 5. Sahne hinzu geben.
 6. Gorgonzola hinzugeben und schmelzen lassen.
 7. Spinat hinzugeben und köcheln lassen bis er zusammenfällt.
 8. Mit Salz und Pfeffer abschmecken.
 
 ### Tipp
-|Pilze passen sehr gut zu diesem gericht.|
+|Pilze passen sehr gut zu diesem Gericht.|
 
