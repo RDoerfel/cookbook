@@ -34,5 +34,4 @@ nav_order: 1
 8. Mit Salz und Pfeffer abschmecken.
 
 ### Tipp
-|Pilze passen sehr gut zu diesem Gericht.|
-
+> Pilze passen sehr gut zu diesem Gericht.
