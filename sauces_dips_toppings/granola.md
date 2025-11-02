@@ -1,6 +1,6 @@
 ---
 title: Granola
-parent: Gerichte
+parent: Soßen, Dips und Toppings
 nav_order: 1
 ---
 
