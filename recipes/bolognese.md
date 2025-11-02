@@ -1,6 +1,6 @@
 ---
 title: Vegetarische Bolognese
-parent: Rezepte
+parent: Gerichte
 nav_order: 1
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: Hummus
-parent: Sossen/Dips
+parent: Soßen und Dips
 nav_order: 1
 ---
 

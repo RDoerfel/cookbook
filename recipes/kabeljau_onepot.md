@@ -1,6 +1,6 @@
 ---
 title: Mediterraner Kabeljau mit Reis
-parent: Rezepte
+parent: Gerichte
 nav_order: 1
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: Spinat Gorgonzola Gnocchi
-parent: Rezepte
+parent: Gerichte
 nav_order: 1
 ---
 

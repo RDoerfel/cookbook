@@ -1,6 +1,6 @@
 ---
 title: Parmigiana di Melanzane
-parent: Rezepte
+parent: Gerichte
 nav_order: 1
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: Kürbis Risotto mit gebackenem Feta
-parent: Rezepte
+parent: Gerichte
 nav_order: 1
 ---
 

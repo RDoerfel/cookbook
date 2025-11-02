@@ -1,6 +1,6 @@
 ---
 title: Recipe Name
-parent: Rezepte
+parent: Gerichte
 nav_order: 1
 ---
 
