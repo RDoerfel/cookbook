@@ -1,6 +1,6 @@
 ---
 title: Hummus
-parent: Rezepte
+parent: Sossen/Dips
 nav_order: 1
 ---
 
