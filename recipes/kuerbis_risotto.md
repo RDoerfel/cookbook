@@ -41,9 +41,8 @@ Die Zubereitung erfolgt in zwei Schritten: Zuerst wird der Kürbis im Backofen g
 4. Risotto Reis hinzugeben und kurz mitbraten bis er leicht glasig ist.
 5. Mit Wein ablöschen.
 6. Brühe nach und nach hinzugeben und immer wieder umrühren, bis der Reis gar ist (ca. 18-20 Minuten). Der Reis sollte noch bissfest sein.
-7. Zwei Drittel des gebackenen Kürbis unterrühren.
+7. Zwei Drittel des gebackenen Kürbis mit dem Feta zerdrücken und in das Risotto unterrühren.
 8. Restliche Butter und Parmesan unterrühren.
-9. Hälfte des Fetas zerbröseln und unterheben.
 10. Mit Salz, Pfeffer und Muskatnuss abschmecken.
 11. Mit restlichem Kürbis und Feta garnieren.
 
