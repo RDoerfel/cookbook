@@ -1,5 +1,6 @@
 ---
 title: Wraps mit Halloumi
+parent: Gerichte
 nav_order: 1
 ---
 

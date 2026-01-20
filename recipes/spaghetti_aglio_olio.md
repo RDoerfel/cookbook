@@ -1,5 +1,6 @@
 ---
 title: Spaghetti Aglio e Olio
+parent: Gerichte
 nav_order: 1
 ---
 
