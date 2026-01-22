@@ -27,11 +27,11 @@ Portionen: 2
 
 | Menge | Zutat |
 | --- | --- |
-|2 EL|Limettensaft (ca. 1-2 Limetten)|
-|2 EL|Fischsauce (oder Sojasoße für vegetarisch)|
-|1-2 EL|Wasser|
+|4 EL|Limettensaft (ca. 1-2 Limetten)|
+|4EL |Oystersauce (oder Sojasoße für vegetarisch)|
+|2 EL|Wasser|
 |1-2 EL|Zucker|
-|1-2|Knoblauchzehen|
+|1 kleine |Knoblauchzehe|
 |1|Thai-Chili oder andere Chilischote (optional)|
 
 ## Gewürze
@@ -46,9 +46,9 @@ Portionen: 2
 5. Tofu in Würfel oder Scheiben schneiden.
 
 ### Nuoc Cham Sauce
-1. Knoblauch schälen und fein hacken.
+1. Knoblauch schälen und fein hacken. Reiben ist noch besser.
 2. Chili in dünne Ringe schneiden (optional).
-3. Limettensaft, Fischsauce, Wasser und Zucker in einer kleinen Schüssel mit Zucker geben und vermischen bis sich der Zucker auflöst.
+3. Limettensaft, Oystersauce, Wasser und Zucker in einer kleinen Schüssel mit Zucker geben und vermischen bis sich der Zucker auflöst.
 4. Knoblauch und Chili unterrühren.
 5. Abschmecken und nach Belieben anpassen - die Sauce sollte eine ausgewogene Balance aus salzig, süß, sauer und scharf haben.
 
